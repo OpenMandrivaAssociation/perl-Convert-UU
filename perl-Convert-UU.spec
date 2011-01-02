@@ -52,6 +52,6 @@ rm -rf %buildroot
 %perl_vendorlib/*
 /usr/bin/puudecode
 /usr/bin/puuencode
-/usr/share/man/man1/puudecode.1.lzma
-/usr/share/man/man1/puuencode.1.lzma
+/usr/share/man/man1/puudecode.1*
+/usr/share/man/man1/puuencode.1*
 
